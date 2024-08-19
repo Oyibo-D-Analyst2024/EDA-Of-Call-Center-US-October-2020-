@@ -40,7 +40,7 @@ The analysis results are summarized as follows:
 4. Customers were more concerned about their billing questions and they were less concerned about payments.
 
 ### Limitation
-In the dataset, I had to transform the csat_score and call_time_stamp column datatype because there weren't spcific and it would have affected our dashboard.
+In the dataset, I had to transform the csat_score and call_time_stamp column datatype because there weren't specific and it would have affected our dashboard.
 
 💻
 📲
