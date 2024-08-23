@@ -5,7 +5,7 @@ Excel Dashboard
 
 ### Project Overview
 ---
-This data analysis project aims to provide insights into the performance of cell centers in the month of October 2020.
+This data analysis project aims to provide insights into the performance of cell centers in the month of October 2020
 in various cities and states in USA. By analyzing various aspects of the call center data, we seek to identify trends, make
 data-driven recommendation, and gain a deeper undesrtanding of the company's performance.
 
